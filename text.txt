@@ -1,3 +1,4 @@
 starting point
 changes done
 merged my branch into master and accepted master's variation of text.txt file
+current state should be: only master branch existing, containing text.txt file with this very text
