@@ -1,2 +1,3 @@
 starting point
 changes done
+merged my branch into master and accepted master's variation of text.txt file
